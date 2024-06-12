@@ -24,7 +24,7 @@ The configs require (can be auto-installed) :
 - ZSH (Set as your primary shell pls ^^)
 - Half a neurone and a drop of condensed terminal
 
-## Installation
+## Installation (WIP: Not available for now)
 
 I did make an auto-install for personal quick setup.. I know that it's crap but feel free to try it on your machine and if it works.. well
 everythings should be up and running.
