@@ -1,0 +1,1 @@
+{"primary_source":{"id":"pkg:npm\/vls@0.8.5","type":"registry+v1"},"metrics":{"start_time":1718117629483,"completion_time":1718117637303},"secondary_sources":[],"name":"vetur-vls","links":{"share":{"mason-schemas\/lsp\/vetur-vls.json":"mason-schemas\/lsp.json"},"opt":{},"bin":{"vls":"node_modules\/.bin\/vls"}},"schema_version":"1.1"}

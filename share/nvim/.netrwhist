@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/tlesage/.config/nvim/lua/plugin'
+let g:netrw_dirhist_7='/home/tlesage/.config/nvim/lua'
+let g:netrw_dirhist_6='/home/tlesage/.config/nvim/lua/nak0x'
+let g:netrw_dirhist_5='/home/tlesage/.config/nvim/lua'
+let g:netrw_dirhist_4='/home/tlesage/.config/nvim'
+let g:netrw_dirhist_3='/home/tlesage/.config'
+let g:netrw_dirhist_2='/home/tlesage/.tmux'
+let g:netrw_dirhist_1='/home/tlesage/.config/nvim/after/plugin'
+let g:netrw_dirhist_0='/home/tlesage/.config/nvim/after'
+let g:netrw_dirhist_9='/home/tlesage/.config/nvim'

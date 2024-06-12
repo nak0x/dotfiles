@@ -1,0 +1,21 @@
+# Ignore everything else
+*
+
+# Keep theses folders
+!nvim/
+!tmux/
+!kitty/
+!fonts/
+!share/
+
+!nvim/**
+!tmux/**
+!kitty/**
+!fonts/**
+!share/**
+
+# Keep theses files 
+!.gitignore
+!.zshrc.sample
+!.gitconfig.sample
+
