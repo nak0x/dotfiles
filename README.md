@@ -111,6 +111,10 @@ I have choose the GNU GPL 3.0, because I strongly believe in open source and as 
 It's like changing settings... you don't get paid to do this.
 But if it can be helpfull to someone, why not sharing it !
 
+## To Do
+
+Implement usage of [Recuitls](https://www.gnu.org/software/recutils/) for managing notes and daily notes.
+
 ---
 
 Love ya ! <3
