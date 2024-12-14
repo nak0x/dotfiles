@@ -1,1 +1,0 @@
-{"primary_source":{"id":"pkg:npm\/cssmodules-language-server@1.4.0","type":"registry+v1"},"metrics":{"start_time":1718117623097,"completion_time":1718117625944},"secondary_sources":[],"name":"cssmodules-language-server","links":{"share":{},"opt":{},"bin":{"cssmodules-language-server":"node_modules\/.bin\/cssmodules-language-server"}},"schema_version":"1.1"}
